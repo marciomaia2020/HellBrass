@@ -1,0 +1,146 @@
+/*------------------------------------------------------------------------
+# Joomla 2.5 Template - Blue Design
+# ------------------------------------------------------------------------
+# Author    Thecoders.vn
+# Copyright Copyright (C) 2012 Thecoders.vn. All Rights Reserved.
+# License - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+# Websites: http://thecoders.vn
+# Live Demo: http://gatheme.com
+# Technical Support:  Forum - http://laptrinhvien-vn.com
+-------------------------------------------------------------------------*/
+body {
+	border-top: 5px solid #34C0E7;
+}
+#tcvn-wrapper {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: auto;
+}
+#tcvn-header {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: auto;
+	clear: both;
+}
+#tcvn-logo {
+	padding: 15px 0;
+}
+#tcvn-logo .site-title {
+	display: block;
+    font-size: 30px;
+    line-height: 34px;
+}
+#tcvn-logo .site-description {
+	display: block;
+    font-size: 13px;
+    line-height: 21px;
+}
+#tcvn-top-menu {
+	text-align: right;
+}
+#tcvn-top-menu .navbar {
+	margin: 0;
+}
+#tcvn-slideshow {
+	background-image: url("../images/bg_slide.png");
+    background-repeat: repeat;
+}
+#tcvn-slideshow .box-shadow {
+    box-shadow: 0 5px 5px #9F9F9F;
+    height: 1px;
+}
+#tcvn-slideshow .tcvn-wrapper-inner {
+    padding: 25px 0;
+}
+#tcvn-breadcrumbs {
+	background-image: url("../images/bg_slide.png");
+    background-repeat: repeat;
+	margin-bottom: 30px;
+}
+#tcvn-breadcrumbs .box-shadow {
+    box-shadow: 0 3px 5px #9F9F9F;
+    height: 1px;
+}
+#tcvn-breadcrumbs .tcvn-wrapper-inner {
+    padding: 10px 5px;
+}
+#tcvn-promotion {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: auto;
+	clear: both;
+}
+#tcvn-promotion .tcvn-wrapper-inner {
+	margin-top: 30px;
+}
+#tcvn-position-123 {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: auto;
+	clear: both;
+}
+#tcvn-position-123 .row {
+	margin-top: 30px;
+}
+#tcvn-position-4 {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: auto;
+	clear: both;
+}
+#tcvn-position-4 h3 {
+	margin-top: 0px;
+}
+#tcvn-position-56 {
+	margin: 0 0 30px;
+	padding: 0px;
+	width: 100%;
+	height: auto;
+	clear: both;
+}
+#tcvn-container {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: auto;
+	clear: both;
+}
+#tcvn-left,
+#tcvn-right {
+	margin-bottom: 30px;
+}
+#tcvn-position-789 {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: auto;
+	clear: both;
+	background: none repeat scroll 0 0 #4B4B4B;
+    border-top: 10px solid #CECECE;
+}
+#tcvn-position-789 h3 {
+    color: #24C0EB;
+}
+#tcvn-position-789 .row {
+	padding-top: 15px;
+	padding-bottom: 25px;
+	color: #FCFCFC;
+}
+#tcvn-footer {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: auto;
+	clear: both;
+    background: none repeat scroll 0 0 #2A2A2A;
+    border-top: 1px solid #CCCCCC;
+	color: #FFF;
+}
+#tcvn-footer .row {
+	padding: 15px 0;
+}
